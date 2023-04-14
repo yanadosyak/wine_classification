@@ -1,1 +1,3 @@
-# wine_classification
+# Wine classification     ![image](https://user-images.githubusercontent.com/93212862/232142323-c8ef883b-9aa5-4bc6-bdb6-9832583312c0.png)
+Набор данных включает в себя образцы белого вина с севера Португалии.
+Цель состоит в том, чтобы смоделировать качество вина на основе физико-химических тестов
